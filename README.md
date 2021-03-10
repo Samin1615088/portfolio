@@ -6,3 +6,11 @@ https://samin1615088.github.io/personal-website-milestone-1/
 
 ## Personal Website (Fully Responsive)
 https://samin1615088.github.io/Fashion-website-milestone-2/
+
+## Ticket Ordering Landing Page
+Used JavaScript to add functionalilty in web page
+https://samin1615088.github.io/Cruise-Ticket-cart-website-milestone-4/
+
+## Cooking Master
+Used restAPI to call data from website
+https://samin1615088.github.io/Cooking-Master--website-milestone-5/
